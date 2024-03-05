@@ -1,0 +1,17 @@
+build/**
+cmake-build-debug-esp-idf
+**/dist/
+**/node_modules/
+bin
+.DS_Store
+
+# VS Code Settings
+.vscode/
+
+# Clion Settings
+*.idea/
+
+# Clion build directory
+*cmake-build-debug
+
+*.tmp
